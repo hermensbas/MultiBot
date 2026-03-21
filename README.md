@@ -31,7 +31,11 @@ Thank you for understanding.
 
 # Comming soon
 
-Port Multibot to ACE 3 
+Port Multibot to ACE 3
+
+If you want to test the aCE3 version, use this branch: https://github.com/Wishmaster117/MultiBot/tree/feature/ace3-migration .
+Keep in mind that the addon is fully functional, but since I am currently migrating it, it still operates in a hybrid state.
+Branch updates are made incrementally as I move forward with the project.
 
 ---
 
